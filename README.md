@@ -32,4 +32,4 @@ Feel free to explore the notebooks and scripts provided in this repository to un
 
 ## Contributors:
 
-- [Ziyad Elfayoumy](https://github.com/Zoz-HF)
+- [Ziyad Elfayoumy](https://github.com/Ziyad-HF)
